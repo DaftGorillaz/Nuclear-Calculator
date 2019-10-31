@@ -73,7 +73,7 @@
             A1 = 94
         ElseIf eBox = "Plutonium-240" Then
             E1 = "Pl"
-            M1 = 240
+            M1 = 240123
             A1 = 94
         ElseIf eBox = "Plutonium-241" Then
             E1 = "Pl"
