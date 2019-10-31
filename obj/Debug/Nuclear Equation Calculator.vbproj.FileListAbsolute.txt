@@ -1,0 +1,15 @@
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\bin\Debug\Nuclear Equation Calculator.exe.config
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\bin\Debug\Nuclear Equation Calculator.exe
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\bin\Debug\Nuclear Equation Calculator.pdb
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\bin\Debug\Nuclear Equation Calculator.xml
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\obj\Debug\Nuclear Equation Calculator.vbprojResolveAssemblyReference.cache
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\obj\Debug\Nuclear_Equation_Calculator.Form1.resources
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\obj\Debug\Nuclear_Equation_Calculator.Resources.resources
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\obj\Debug\Nuclear Equation Calculator.vbproj.GenerateResource.Cache
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\obj\Debug\Nuclear Equation Calculator.exe
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\obj\Debug\Nuclear Equation Calculator.xml
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\obj\Debug\Nuclear Equation Calculator.pdb
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\bin\Debug\Nuclear Equation Calculator.exe.manifest
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\bin\Debug\Nuclear Equation Calculator.application
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\obj\Debug\Nuclear Equation Calculator.exe.manifest
+D:\Lance\School\Senior F\Computer\Term 1\Peformance Task\Nuclear Equation Calculator\Nuclear Equation Calculator\obj\Debug\Nuclear Equation Calculator.application
